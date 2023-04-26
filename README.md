@@ -3,15 +3,15 @@ Projekts, kura ietvaros apgūsim UI elementu veidošanu un darbošanos ar tiem, 
 ![MR. Bean attēls](https://user-images.githubusercontent.com/129928522/232993565-1299c394-cd13-4d03-869a-8e4ca1b01c5a.png)
 
 ## Veicamo darbu saraksts:
-- [ ] Input field lietojums
-- [ ] Text element alietojums
-- [ ] Button elementa lietojums
-- [ ] Image elementa lietojums
-- [ ] C# skriptu izveide un piesaiste objektiem
-- [ ] Toggle elementu lietojums
-- [ ] Toggle Group komponentes lietojums
-- [ ] Drop down elementa lietojums
-- [ ] Slider elementu lietojums
+- [x] Input field lietojums
+- [x] Text element alietojums
+- [x] Button elementa lietojums
+- [x] Image elementa lietojums
+- [x] C# skriptu izveide un piesaiste objektiem
+- [x] Toggle elementu lietojums
+- [x] Toggle Group komponentes lietojums
+- [x] Drop down elementa lietojums
+- [x] Slider elementu lietojums
 - [ ] Audio source integrešana ainā
 - [ ] Scroll view elementa lietojums
 - [ ] Drag un Drop funkcionalitates ieviesana
