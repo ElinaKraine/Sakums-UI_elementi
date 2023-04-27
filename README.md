@@ -16,6 +16,6 @@ Projekts, kura ietvaros apgūsim UI elementu veidošanu un darbošanos ar tiem, 
 - [x] Scroll view elementa lietojums
 - [x] Drag un Drop funkcionalitates ieviesana
 - [x] Pārslēgšanās starp ainām
-- [ ] Objektu ģenerēšana
+- [x] Objektu ģenerēšana
 - [ ] Projekta sagatavošana darbinašanai no darbavirsmas (.exe)
 
