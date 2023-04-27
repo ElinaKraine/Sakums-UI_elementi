@@ -17,5 +17,5 @@ Projekts, kura ietvaros apgūsim UI elementu veidošanu un darbošanos ar tiem, 
 - [x] Drag un Drop funkcionalitates ieviesana
 - [x] Pārslēgšanās starp ainām
 - [x] Objektu ģenerēšana
-- [ ] Projekta sagatavošana darbinašanai no darbavirsmas (.exe)
+- [x] Projekta sagatavošana darbinašanai no darbavirsmas (.exe)
 
